@@ -2,7 +2,7 @@
 Please check that page for further instructions. 
 
 If you use this code in your research, please cite:
-
+```
 @InProceedings{Cakir_2018_ECCV,
 author = {Cakir, Fatih and He, Kun and Sclaroff, Stan},
 title = {Hashing with Binary Matrix Pursuit},
@@ -10,3 +10,4 @@ booktitle = {The European Conference on Computer Vision (ECCV)},
 month = {September},
 year = {2018}
 }
+```
