@@ -1,1 +1,1 @@
-This repo will soon host the implementation of our ECCV 2018 paper: Hashing with Binary Matrix Pursuit.
+:warning: The MATLAB implementation of the ECCV 2018 paper: Hashing with Binary Matrix Pursuit is maintained under the **[deep-mihash](https://github.com/fcakir/deep-mihash/tree/hbmp)** repo **hbmp** branch. Please check that page for further instructions. 
